@@ -56,7 +56,7 @@
 * GS-WGAN | [GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators](https://arxiv.org/abs/2006.08265) (Chen et al., 2020) | [code](https://github.com/DingfanChen/GS-WGAN)
 * DPDoppelGANger | [Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions](https://arxiv.org/abs/1909.13403) (Lin et al., 2020) | [code](https://github.com/fjxmlzn/DoppelGANger)
 * DP-Sinkhorn | [Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence](https://arxiv.org/abs/2111.01177) (Cao et al., 2021) | [code](https://github.com/reihaneh-torkzadehmahani/DP-CGAN) | [code](https://github.com/nv-tlabs/DP-Sinkhorn_code)
-* DP-MERF | [Pre-trained Perceptual Features Improve Differentially Private Image Generation]published in TMLR (https://openreview.net/forum?id=R6W7zkMz0P) [code](https://github.com/ParkLabML/DP-MEPF)
+* DP-MERF | [Pre-trained Perceptual Features Improve Differentially Private Image Generation](https://openreview.net/forum?id=R6W7zkMz0P)   published in TMLR2023 | [code](https://github.com/ParkLabML/DP-MEPF)
 
 
 ## Non Peer-Reviewed Models
