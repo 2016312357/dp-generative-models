@@ -50,13 +50,14 @@
 * DPFieldGroups | Differential Privacy Synthetic Data Challenge Algorithm (Gardner, 2019) | [code](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPFieldGroups)
 
 
-## Other Data Domains
+## Images, Other Data Domains
 * GANobfuscator | [GANobfuscator: Mitigating Information Leakage Under GAN via Differential Privacy](https://ieeexplore.ieee.org/document/8636556) (Xu et al., 2019)
 * DP-CGAN | [DP-CGAN: Differentially Private Synthetic Data and Label Generation](https://arxiv.org/abs/2001.09700) (Torkzadehmahani et al., 2019) | [code](https://github.com/reihaneh-torkzadehmahani/DP-CGAN)
 * GS-WGAN | [GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators](https://arxiv.org/abs/2006.08265) (Chen et al., 2020) | [code](https://github.com/DingfanChen/GS-WGAN)
 * DPDoppelGANger | [Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions](https://arxiv.org/abs/1909.13403) (Lin et al., 2020) | [code](https://github.com/fjxmlzn/DoppelGANger)
 * DP-Sinkhorn | [Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence](https://arxiv.org/abs/2111.01177) (Cao et al., 2021) | [code](https://github.com/reihaneh-torkzadehmahani/DP-CGAN) | [code](https://github.com/nv-tlabs/DP-Sinkhorn_code)
-* DP-MERF | [Pre-trained Perceptual Features Improve Differentially Private Image Generation](https://openreview.net/forum?id=R6W7zkMz0P)   published in TMLR2023 | [code](https://github.com/ParkLabML/DP-MEPF)
+* DP-MERF | [DP-MERF: Differentially Private Mean Embeddings with Random Features for Practical Privacy-Preserving Data Generation](https://arxiv.org/pdf/2002.11603.pdf) | [code](https://github.com/ParkLabML/DP-MERF)
+* DP-MEPF | [Pre-trained Perceptual Features Improve Differentially Private Image Generation](https://openreview.net/forum?id=R6W7zkMz0P)   published in TMLR2023 | [code](https://github.com/ParkLabML/DP-MEPF)
 
 
 ## Non Peer-Reviewed Models
